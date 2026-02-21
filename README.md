@@ -41,3 +41,6 @@ Simpan sebagai `index.html`:
 2. Pastikan **koordinat valid** (contoh: `2.9265,101.6487` — bukan `1.000.129`)
 3. Jika tiada koordinat, peta **tidak akan muncul** (normal).
 
+
+🪙 Donation For Me??
+'https://sociabuzz.com/fareezonzz_019/give'
